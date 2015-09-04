@@ -14,6 +14,8 @@
 	<version>1.2.0-SNAPSHOT</version>
 	
 	<name>Black Pepper Support Spring JDBC Test</name>
+	<description>Support for testing with Spring JDBC.</description>
+	<url>https://github.com/BlackPepperSoftware/bp-support-spring-jdbc-test</url>
 
 	<scm>
 		<connection>scm:git:git@github.com:BlackPepperSoftware/bp-support-spring-jdbc-test.git</connection>
